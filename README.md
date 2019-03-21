@@ -22,4 +22,4 @@ For instance, my username on Mac OSX is `adamlamorre` so I enter `adamlamorre`.
 
 All together this covers SELECT, DELETE, INSERT and python/SQL interweaving.
 
-###ENJOY
+### ENJOY
