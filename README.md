@@ -15,7 +15,7 @@ For instance, my username on Mac OSX is `adamlamorre` so I enter `adamlamorre`.
 ## The commands
 
 1 - Finds certain agents
-2 - Dleted them one by one
+2 - Deletes them one by one
 
 3 - Manipulates user emails
 4 - Validates and deletes user emails without @ using pyton code
